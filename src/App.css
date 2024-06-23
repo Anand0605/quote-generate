@@ -8,11 +8,13 @@ body {
   padding: 10px 20px;
   border-radius: 10px;
   border: none;
-background-color: #00017d;
-color: beige;
+background-color: cyan;
+color: rgb(0, 0, 0);
+/* box-shadow: 10px 10px 20px cyan, */
+  /* -10px -10px 20px cyan */
 }
-.btn:hover{
+/* .btn:hover{
   background-color: aqua;
   color: black;
-  box-shadow: rgba(aqua) 0px 7px 29px 0px;
-}
+  
+} */
