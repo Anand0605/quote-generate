@@ -10,11 +10,11 @@ body {
   border: none;
 background-color: cyan;
 color: rgb(0, 0, 0);
-/* box-shadow: 10px 10px 20px cyan, */
-  /* -10px -10px 20px cyan */
+
 }
-/* .btn:hover{
-  background-color: aqua;
-  color: black;
+.btn:hover{
+  /* transform: scale(1.1); */
+  transform: rotate(360deg);
+  transition: 1s;
   
-} */
+}
