@@ -1,0 +1,18 @@
+body {
+  background-color: #00224D;
+  color: beige;
+}
+
+.btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+background-color: #00017d;
+color: beige;
+}
+.btn:hover{
+  background-color: aqua;
+  color: black;
+  box-shadow: rgba(aqua) 0px 7px 29px 0px;
+}
